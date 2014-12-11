@@ -6,12 +6,12 @@
   "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
   "created_at": "2014-07-22T17:56:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:27:47.497032+00:00", 
+  "modified_at": "2014-12-11T15:26:29.800684+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "to-prevent-diarrhoea-all-faeces-including-those-of-infants-and-young-children-should-be-disposed-of-in-a-latrine-or-toilet-or-buried", 
   "uuid": "5f831e04890747e988c33f9c9f41c674"
 }
