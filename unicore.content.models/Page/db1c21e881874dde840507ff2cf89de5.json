@@ -6,12 +6,12 @@
   "primary_category": "e1da05c882364f7c891f9da57f5e981d", 
   "created_at": "2014-09-10T12:46:13.891828+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:27:37.636310+00:00", 
+  "modified_at": "2014-12-11T15:25:42.346005+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "a-healthy-mother-a-safe-birth-essential-newborn-care-and-attention-a-loving-family-and-a-clean-home-environment-contribute-greatly-to-newborn-health-and-survival", 
   "uuid": "db1c21e881874dde840507ff2cf89de5"
 }
