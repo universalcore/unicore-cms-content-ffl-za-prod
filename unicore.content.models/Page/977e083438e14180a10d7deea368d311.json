@@ -6,12 +6,12 @@
   "primary_category": "99fdaf31bc2949a5ab89f7b2217811d6", 
   "created_at": "2014-09-15T09:21:45.802038+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:27:05.372251+00:00", 
+  "modified_at": "2014-12-11T15:27:28.005227+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "anyone-who-wants-to-know-how-to-prevent-hiv-or-thinks-he-or-she-has-hiv-should-contact-a-health-care-provider-or-an-aids-centre-to-obtain-information-on-hiv-prevention-and-or-advice-on-where-to-rece", 
   "uuid": "977e083438e14180a10d7deea368d311"
 }
